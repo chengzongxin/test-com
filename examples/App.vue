@@ -5,6 +5,7 @@
     <p>----------------------</p>
     <test-com type="success">hhhh</test-com>
     <test-com type="primary">hhhh</test-com>
+    <test-com type="test">hhhh</test-com>
   </div>
 </template>
 

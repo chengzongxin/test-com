@@ -1,4 +1,4 @@
-import testCom from './testCom.vue'
+import testCom from './btn/testCom.vue'
 // 为组件添加 install 方法，用于按需引入
 testCom.install = function (Vue) {
   Vue.component(testCom.name, testCom)

@@ -11,7 +11,7 @@
 <script>
 //name属性必须要，该名称即为npm包导入该组件后所要使用的标签名
 export default {
-    name: 'test-com',
+    name: 'testCom',
     props: {
         type: String
     },
@@ -39,6 +39,9 @@ export default {
  
 .success {
     background: green;
+}
+.test {
+    background: red;
 }
 </style>
  

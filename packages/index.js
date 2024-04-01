@@ -1,5 +1,5 @@
     // 导入组件,可有多个
-    import testCom from './btn/index'
+    import testCom from './src/index'
  
     // 把组件保存到一个数组中,可有多个
     const components = [

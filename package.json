@@ -1,5 +1,5 @@
 {
-  "name": "test-com",
+  "name": "@chengzongxin/test-com",
   "version": "0.1.0",
   "main": "lib/warn-sun-btn.umd.min.js",
   "private": false,

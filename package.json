@@ -1,7 +1,7 @@
 {
   "name": "@chengzongxin/test-com",
-  "version": "0.1.0",
-  "main": "lib/warn-sun-btn.umd.min.js",
+  "version": "0.2.0",
+  "main": "lib/test-com.umd.min.js",
   "private": false,
   "license": "MIT",
   "description": "这是一个测试组件",
@@ -13,7 +13,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name warn-sun-btn --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name test-com --dest lib packages/index.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",

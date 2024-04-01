@@ -3,8 +3,8 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <p>----------------------</p>
-    <warn-sun-btn type="success">hhhh</warn-sun-btn>
-    <warn-sun-btn type="primary">hhhh</warn-sun-btn>
+    <test-com type="success">hhhh</test-com>
+    <test-com type="primary">hhhh</test-com>
   </div>
 </template>
 

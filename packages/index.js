@@ -1,9 +1,9 @@
     // 导入组件,可有多个
-    import warnSunBtn from './btn/index'
+    import testCom from './btn/index'
  
     // 把组件保存到一个数组中,可有多个
     const components = [
-      warnSunBtn
+      testCom
     ]
      
     // 定义 install 方法，接收 Vue 作为参数。如果使用 use 注册插件，那么所有的组件都会被注册

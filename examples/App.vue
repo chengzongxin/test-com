@@ -2,6 +2,9 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <p>----------------------</p>
+    <warn-sun-btn type="success">hhhh</warn-sun-btn>
+    <warn-sun-btn type="primary">hhhh</warn-sun-btn>
   </div>
 </template>
 
@@ -11,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
   }
 }
 </script>
